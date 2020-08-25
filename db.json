@@ -1,4 +1,5 @@
-[
+{
+  "activities":[
   {
       "id": 1,
       "title": "Activity one",
@@ -24,3 +25,4 @@
       "completed": false
   }
 ]
+}
